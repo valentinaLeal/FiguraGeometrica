@@ -32,6 +32,10 @@ public class Rectangulo extends FiguraGeometrica {
         
         return perimetro;
     }
+
+    float calcularperimetro() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
     
     
