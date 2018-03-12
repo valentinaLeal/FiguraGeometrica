@@ -1,0 +1,2 @@
+# FiguraGeometrica
+ejercicio en clase 
